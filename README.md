@@ -22,7 +22,19 @@ Este formulario lo vamos a crear dentro de un ambiente con Django 3.1.7 y proced
     ```python
     pip install unipath
     ```
-5. clonamos en el directorio Raiz
-6. Dentro del proyecto nos aseguramos que podamos visualizar el archivo manage.py al escribir "dir" hacemos la migracion con estos comandos
-    Primero : `python [manage.py](http://manage.py/) makemigrations`
-    Segundo : `python [manage.py](http://manage.py/) migrate`
+5. Clonamos en el directorio Raiz
+6.  Ahora debemos hacer una migración con los siguientes comandos que ejecutamos estando en la raiz de nuestro proyecto, (que se mire el archivo manage.py)
+    
+    Primero: 
+    
+    ```python
+    python [manage.py](http://manage.py/) makemigrations
+    ```
+    
+    Luego: 
+    
+    ```python
+    python [manage.py](http://manage.py/) migrate
+    ```    
+
+    
