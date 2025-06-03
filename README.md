@@ -20,7 +20,7 @@ Este formulario lo vamos a crear dentro de un ambiente con Django 3.1.7 y proced
 4. Luego pasamos a instalar 
     
     ```python
-    pip install unipath # ( desde la terminal CMD de VisualStudio)
+    pip install unipath
     ```
 5. clonamos en el directorio Raiz
 6. Dentro del proyecto nos aseguramos que podamos visualizar el archivo manage.py al escribir "dir" hacemos la migracion con estos comandos
