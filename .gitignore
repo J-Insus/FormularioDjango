@@ -4,5 +4,4 @@ ambiente/
 db.sqlite3
 
 # Caché de Python
-__pycache__/
-*.pyc
+__pycache__
