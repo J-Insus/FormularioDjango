@@ -16,3 +16,9 @@ Este formulario lo vamos a crear dentro de un ambiente con Django 3.1.7 y proced
     ```python
     pip install Django==3.1.7
     ```
+    
+4. Luego pasamos a instalar Django con el comando 
+    
+    ```python
+    pip install unipath # ( desde la terminal CMD de VisualStudio)
+    ```
