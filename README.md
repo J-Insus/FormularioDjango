@@ -28,13 +28,13 @@ Este formulario lo vamos a crear dentro de un ambiente con Django 3.1.7 y proced
     Primero: 
     
     ```python
-    python [manage.py](http://manage.py/) makemigrations
+    python manage.py makemigrations
     ```
     
     Luego: 
     
     ```python
-    python [manage.py](http://manage.py/) migrate
+    python manage.py migrate
     ```    
 
     
